@@ -24,6 +24,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="www.linkedin.com/in/sprathish" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -31,29 +35,6 @@
   <a href="prathish472@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center" style="width: 100%"></div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.gifcen.com/wp-content/uploads/2024/02/batman-gif-8.gif"  />
 </div>
 
 ###
