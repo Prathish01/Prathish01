@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" alt="css logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
@@ -26,14 +26,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="www.linkedin.com/in/sprathish" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=sprathish&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
   <a href="prathish472@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@gmail.com&logo=gmail&label=prathish472&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -44,13 +42,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://image.sggp.org.vn/Uploaded/2024/uqvpsqmb/2023_06_13/treble-winners-manchester-city-are-champions-of-europe-premier-league-fa-cup-winners-2-min-696.gif"  />
-</div>
 
 ###
