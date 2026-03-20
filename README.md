@@ -21,7 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Prathish01&theme=chalk&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
