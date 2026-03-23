@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" alt="html5 logo"  />
@@ -20,9 +26,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -34,13 +42,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
