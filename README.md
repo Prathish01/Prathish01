@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
