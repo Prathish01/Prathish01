@@ -2,7 +2,6 @@
 
 ###
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Prathish01&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph"  />
 </div>
@@ -28,9 +27,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathish01/Prathish01/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prathish01/Prathish01/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
